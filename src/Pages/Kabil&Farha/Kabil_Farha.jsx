@@ -5,6 +5,11 @@ function Kabil_Farha() {
         <>
             <div>Kabil&Farha</div>
             <p>You are welcome farha</p>
+
+            <div>Kabil&Farha</div>
+            <p>You are welcome farha</p>
+
+            <P>Farha Your Message Done! </P>
         </>
     )
 }
